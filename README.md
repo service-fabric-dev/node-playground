@@ -3,6 +3,7 @@ This repository is for familiarizing myself with node tools and tricks.
 
 ## Notes
 [Node Intro](https://www.youtube.com/watch?v=ENrzD9HAZK4)
+
 [Node System Diagram](https://i.stack.imgur.com/QRePV.jpg)
 
 ### Globals
