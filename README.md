@@ -17,11 +17,11 @@ Process
 - current running node process
 
 ### Eventing
-Useful for CPU intesive workloads.
+Useful for CPU intensive workloads.
 Uses EventEmitter from 'events' module in node.
 
 ### File System
-Provides blobking, non-blocking, and promised-based file system I/O through the fs module
+Provides blocking, non-blocking, and promised-based file system I/O through the fs module
 
 ### Modules
 Equivalent to packages in C#.
